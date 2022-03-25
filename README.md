@@ -1,7 +1,7 @@
-Bitcoin Core integration/staging tree // XYZ
+#Bitcoin Core integration/staging tree // XYZ
 =====================================
 
-https://bitcoincore.org
+##https://bitcoincore.org
 
 For an immediately usable, binary version of the Bitcoin Core software, see
 https://bitcoincore.org/en/download/.
